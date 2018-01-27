@@ -1,0 +1,54 @@
+\chapter{MATERIAL E MÉTODOS}
+\label{cap:desenvolvimento}
+
+Os materiais e métodos descritos, contextualizam parte do desenvolvimento do sistema Web proposto.
+
+\section{Ferramentas utilizadas}
+
+Aqui são descritas as ferramentas utilizadas na implementação do código-fonte, interface, base de dados e algumas auxiliares.
+
+\subsection{Interface gráfica}
+A linguagem de marcação criada pelo físico britânico Tim Berners-Lee, se tornou a mais utilizada para a construção de páginas da Web \cite{doi:10.1080/02763869.2011.540212}. Após diversas reestruturações, em sua grande maioria realizadas pela \textit{World Wide Web Consortium} (W3C) , o HTML - \textit{HyperText Markup Language} (Linguagem de Marcação de Hipertexto) se encontra em sua quinta versão - HTML5.  Segundo \cite{curso2010html5} "Um dos principais objetivos do HTML5 é facilitar a manipulação do elemento possibilitando o
+desenvolvedor a modificar as características dos objetos de forma não intrusiva e de maneira que
+seja transparente para o usuário final."
+
+\textit{Cascading Style Sheets} - CSS\footnote{www.css3.info/}  é utilizado para estilizar uma pagina, de forma a adicionar um \textit{link} direto para um documento que contém toda a formatação de estilo utilizada. Possui sintaxe simples, com termos em inglês e possibilita declaração de seletores em blocos.
+
+Bootstrap\footnote{https://getbootstrap.com/} possibilita a criação de projetos responsivos e móveis, utilizando ferramentas de código aberto e componentes de \textit{front-end}. É voltado para o desenvolvimento com HTML, CSS, JS e utilização de \textit{plugins} criados no jQuery\footnote{https://jquery.com/}, além de disponibilizar uma extensa lista de componentes pré-construídos para uso \cite{spurlock2013bootstrap}.
+
+\subsection{Base de dados}
+
+MySQL WorkBench é um SGBD - Sistema Gerenciador de banco de dados, que fornece modelagem de dados e uso de SQL\footnote{ Linguagem de pesquisa declarativa padrão para banco de dados relacional (base de dados relacional)}   - \textit{Structured Query Language}, ou Linguagem de Consulta Estruturada. 
+
+\subsection{Desenvolvimento das funcionalidades}
+
+\textit{Model-View-Controller} - MVC é um padrão arquitetural formulado por Trygve Reenskaug em 1979, para definir quais são os elementos do software e como eles interagem entre si. Tal ferramenta busca proporcionar escalabilidade e eficiência da aplicação \cite{Karam2009SynchronousOH}.Seu principal benefício é isolar as regras de negócio da lógica de apresentação. Para reduzir o acoplamento e aumentar a coesão nas classes, três camadas propostas para serem independentes e podem ser descritas da seguinte maneira:
+
+\begin{itemize}
+	\item[]\qquad\textit{Model} ou modelo funciona como regras de negocio. Gerencia elementos de dados, responde requisições do controlador e efetua alterações de estado.
+	\item[]\qquad\textit{View} ou visão, é responsável por apresentar informações ao usuário, recebendo instruções do controlador e informações do modelo.
+	\item[]\qquad\textit{Controller} ou controlador, é o intermediador entre as requisições do usuário, passadas da visão para as regras de negócio e/ou o contrário. É o único que possui conhecimento dessas duas camadas.
+\end{itemize}
+
+
+
+
+PHP\footnote{http://www.php.net/} -\textit{ Hipertext Preprocessor}  é uma linguagem de \textit{script open source}, amplamente utilizada, adequada para o desenvolvimento web e que pode ser embutida dentro do HTML. Delimitada por \textit{tags} representando início e fim, permitindo alternar entre dentro e fora do "modo PHP" \cite{tonu2012php}.
+
+
+JavaScript \footnote{https://www.javascript.com}  é uma linguagem de programação interpretada. Criada em 1995, tida como a principal linguagem de programação para navegadores web, que utilizam o modelo cliente servidor, multiparadigma, com tipagem dinâmica, fraca e implicite \cite{javaScript2011}.
+
+
+\subsection{Ferramentas auxiliares}
+
+
+Aqui abordadas, as ferramentas auxiliares no desenvolvimento do software, tem por objetivo manter o registro de alteração de dados e integrar outras ferramentas de desenvolvimento úteis em um único lugar. 
+
+Git \footnote{https://git-scm.com/}  , pronuncia-se “git” ou “dit”, em inglês britânico é um sistema de controle de versão distribuído (livre e de código aberto), e um sistema de gerenciamento de código fonte com ênfase em velocidade e eficiência. Inicialmente foi projetado para desenvolvimento do Kernel Linux \footnote{Forma a estrutura base do sistema operacional/sistema operativo GNU/Linux, que é um sistema operacional tipo unix.}   mas teve sua adoção para diversos outros projetos  \cite{moreira2016desbravando}.
+
+GitHub \footnote{https://github.com/}   é um serviço web que permite hospedar repositórios de projetos que utilizam Git . Assim ele facilita o trabalho em equipe e incentiva a  colaboração com projetos \textit{open source} \cite{moreira2016desbravando}.
+
+NetBeans IDE\footnote{https://netbeans.org/}   é um ambiente de desenvolvimento integrado, gratuito e de código aberto. Voltado para desenvolvedores de softwares. Aceita as principais linguagens de programação atuais como JAVA, PHP, JavaScript, HTML5, entre outras \cite{tonu2012php}.
+
+
+

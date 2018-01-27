@@ -1,0 +1,107 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.6 }
+
+\bibitem[Albino e Souza 2016]{albino2016avaliaccao}
+\abntrefinfo{Albino e Souza}{ALBINO; SOUZA}{2016}
+{ALBINO, R.; SOUZA, C.~A. de. Avalia{\c{c}}{\~a}o do n{\'\i}vel de uso das tics
+  em escolas brasileiras: uma explora{\c{c}}{\~a}o dos dados da pesquisa “tic
+  educa{\c{c}}{\~a}o”.
+\textbf{Economia \& Gest{\~a}o}, v.~16, n.~43, p. 101--125, 2016.}
+
+\bibitem[Brito 2013]{REP's1158}
+\abntrefinfo{Brito}{BRITO}{2013}
+{BRITO, S.~S. A. As mídias digitais e a prática pedagógica.
+\textbf{Eventos Pedagógicos}, v.~4, n.~1, 2013.
+ISSN 2236-3165.
+Dispon{\'\i}vel em:
+  \url{http://sinop.unemat.br/projetos/revista/index.php/eventos/article/view/1158}.}
+
+\bibitem[Cavalcanti 1995]{helmano1995}
+\abntrefinfo{Cavalcanti}{CAVALCANTI}{1995}
+{CAVALCANTI, E.~P. Revolução da informação: algumas reflexões.
+\textbf{Caderno de pesquisa em Administração}, São Paulo, v.~1, n.~1, 1995.}
+
+\bibitem[FERREIRA e EIS 2011]{curso2010html5}
+\abntrefinfo{FERREIRA e EIS}{FERREIRA; EIS}{2011}
+{FERREIRA, E.; EIS, D. Html5: Curso w3c escrit{\'o}rio brasil.
+\textbf{S{\~a}o Paulo}, 2011.}
+
+\bibitem[Flanagan 2013]{javaScript2011}
+\abntrefinfo{Flanagan}{FLANAGAN}{2013}
+{FLANAGAN, D. \textbf{JavaScript}: O guia definitivo. Tradução de João
+  Eduardo Nóbrega Tortello. Revisão técnica de Luciana Nedel. 6. ed. Porto
+  Alegre: O'Reilly, 2013. 1062~p.}
+
+\bibitem[Hoy 2011]{doi:10.1080/02763869.2011.540212}
+\abntrefinfo{Hoy}{HOY}{2011}
+{HOY, M.~B. Html5: A new standard for the web.
+\textbf{Medical Reference Services Quarterly}, Routledge, v.~30, n.~1, p.
+  50--55, 2011.
+PMID: 21271452.
+Dispon{\'\i}vel em: \url{https://doi.org/10.1080/02763869.2011.540212}.}
+
+\bibitem[Karam e Ibrahim 2009]{Karam2009SynchronousOH}
+\abntrefinfo{Karam e Ibrahim}{KARAM; IBRAHIM}{2009}
+{KARAM, M.; IBRAHIM, M. A. Synchronous online help support with visual
+  instruction aids for workflow-based mvc web applications: Proceedings of the
+  27th acm international conference on design of communication.
+\textbf{SIGDOC}, p. 105--114, 2009.}
+
+\bibitem[Lacerdino e Melchiori 2016]{igor2016}
+\abntrefinfo{Lacerdino e Melchiori}{LACERDINO; MELCHIORI}{2016}
+{LACERDINO, I.; MELCHIORI, A. P.~P. ImplementaÇÃo de mÉtodos analÍticos de
+  usabilidade e prototipaÇÃo para melhoria de aplicaÇÃo mÓvel educacional:
+  Estudo de caso do "diario de classe".
+\textbf{Monografia de Graduação, Universidade Federal de Lavras}, 2016.}
+
+\bibitem[Moreira 2016]{moreira2016desbravando}
+\abntrefinfo{Moreira}{MOREIRA}{2016}
+{MOREIRA, J.~P. Desbravando o git e o github.
+\textbf{Revista Educacional Interdisciplinar}, v.~5, n.~1, 2016.}
+
+\bibitem[Ponte 2002]{ponte2002tic}
+\abntrefinfo{Ponte}{PONTE}{2002}
+{PONTE, J. P.~d. As tic no in{\'\i}cio da escolaridade: Perspectivas para a
+  forma{\c{c}}{\~a}o inicial de professores.
+\textbf{A forma{\c{c}}{\~a}o para a integra{\c{c}}{\~a}o das TIC na
+  educa{\c{c}}{\~a}o pr{\'e}-escolar e no 1. {\textordmasculine} ciclo do
+  ensino b{\'a}sico}, Porto Editora, p. 19--26, 2002.}
+
+\bibitem[Seabra 1993]{seabra1993}
+\abntrefinfo{Seabra}{SEABRA}{1993}
+{SEABRA, C. O computador na criaÇÃo de ambientes interativos de aprendizagem.
+\textbf{Em aberto}, n.~57, jan./mar. 1993.}
+
+\bibitem[Spurlock 2013]{spurlock2013bootstrap}
+\abntrefinfo{Spurlock}{SPURLOCK}{2013}
+{SPURLOCK, J. \textbf{Bootstrap: Responsive Web development}. Printed in the
+  United States os America: " O'Reilly Media, Inc.", 2013.}
+
+\bibitem[Teresa 1999]{teresa1999manual}
+\abntrefinfo{Teresa}{TERESA}{1999}
+{TERESA, M. Manual do professor.
+1999.}
+
+\bibitem[Tonu 2012]{tonu2012php}
+\abntrefinfo{Tonu}{TONU}{2012}
+{TONU, M.~H. \textbf{PHP Application Development with NetBeans}: Beginner's
+  guide. Birmingham - Mumbai: Packt Publishing Ltd, 2012.}
+
+\bibitem[Valente 1993]{valente1993}
+\abntrefinfo{Valente}{VALENTE}{1993}
+{VALENTE, J.~A. Diferentes usos do computador na educação.
+\textbf{Em aberto}, n.~57, jan./mar. 1993.}
+
+\bibitem[Zaponi, Monteiro e Torres 2009]{manualDiario}
+\abntrefinfo{Zaponi, Monteiro e Torres}{ZAPONI; MONTEIRO; TORRES}{2009}
+{ZAPONI, M.; MONTEIRO, A.; TORRES, V.~B. de A. \textbf{ORIENTAÇÃO PARA
+  PREENCHIMENTO DOS DIÁRIOS DE CLASSE}: Ensino fundamental anos finais e
+  ensino mÉdio. 2009.
+Dispon{\'\i}vel em:
+  \url{http://www.educacao.pe.gov.br/portal/upload/galeria/750/utilizadiariodeclasse.pdf}.}
+
+\end{thebibliography}

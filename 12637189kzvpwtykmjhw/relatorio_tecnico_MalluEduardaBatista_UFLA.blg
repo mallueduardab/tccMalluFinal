@@ -1,0 +1,37 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: relatorio_tecnico_MalluEduardaBatista_UFLA.aux
+A level-1 auxiliary file: introducao.aux
+A level-1 auxiliary file: referencial.aux
+A level-1 auxiliary file: desenvolvimento.aux
+A level-1 auxiliary file: resultados.aux
+A level-1 auxiliary file: conclusao.aux
+The style file: abntex2-alf.bst
+Database file #1: abntex2-options.bib
+Database file #2: relMallu.bib
+I was expecting a `,' or a `}'---line 113 of file relMallu.bib
+ :  
+ :  Address = {Bloomington},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--entry type for "manualDiario" isn't style-file defined
+--line 234 of file relMallu.bib
+I was expecting a `,' or a `}'---line 253 of file relMallu.bib
+ :  
+ :  Address={Lavras},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 274 of file relMallu.bib
+ :  
+ :  address={Brasília},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 284 of file relMallu.bib
+ :  
+ :  address={Brasília},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
++---------------------------------------------------------+
+| Estilo bibliográfico abntex2-alf.bst versão v-1.9.6           |
+| Em caso de dúvidas ou problemas com este estilo procure |
+| http://www.abntex.net.br/                               |
++---------------------------------------------------------+
+(There were 4 error messages)
