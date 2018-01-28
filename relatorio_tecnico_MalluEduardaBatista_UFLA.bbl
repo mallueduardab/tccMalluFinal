@@ -12,6 +12,28 @@
   educa{\c{c}}{\~a}o”.
 \textbf{Economia \& Gest{\~a}o}, v.~16, n.~43, p. 101--125, 2016.}
 
+\bibitem[Barbosa 2004]{barbosa2004contribuiccao}
+\abntrefinfo{Barbosa}{BARBOSA}{2004}
+{BARBOSA, E.~F.
+\textbf{Uma contribui{\c{c}}{\~a}o ao processo de desenvolvimento e modelagem
+  de m{\'o}dulos educacionais}.
+Tese (Doutorado) --- PhD thesis, 2004.}
+
+\bibitem[Barbosa, Sep{\'u}lveda e Costa 2009]{barbosa2009gestao}
+\abntrefinfo{Barbosa, Sep{\'u}lveda e Costa}{BARBOSA; SEP{\'U}LVEDA;
+  COSTA}{2009}
+{BARBOSA, R.~R.; SEP{\'U}LVEDA, M. I.~M.; COSTA, M. U.~P. da. Gest{\~a}o da
+  informa{\c{c}}{\~a}o e do conhecimento na era do compartilhamento e da
+  colabora{\c{c}}{\~a}o.
+\textbf{Informa{\c{c}}{\~a}o \& Sociedade}, Universidade Federal da
+  Para{\'\i}ba-Programa de P{\'o}s-Gradua{\c{c}}{\~a}o em Ci{\^e}ncia da
+  Informa{\c{c}}{\~a}o, v.~19, n.~2, 2009.}
+
+\bibitem[Brito 2006]{brito2006tecnologias}
+\abntrefinfo{Brito}{BRITO}{2006}
+{BRITO, G. d.~S. Tecnologias para transformar a educa{\c{c}}{\~a}o.
+\textbf{Educar em Revista}, SciELO Brasil, n.~28, p. 279--282, 2006.}
+
 \bibitem[Brito 2013]{REP's1158}
 \abntrefinfo{Brito}{BRITO}{2013}
 {BRITO, S.~S. A. As mídias digitais e a prática pedagógica.
@@ -20,10 +42,20 @@ ISSN 2236-3165.
 Dispon{\'\i}vel em:
   \url{http://sinop.unemat.br/projetos/revista/index.php/eventos/article/view/1158}.}
 
-\bibitem[Cavalcanti 1995]{helmano1995}
-\abntrefinfo{Cavalcanti}{CAVALCANTI}{1995}
-{CAVALCANTI, E.~P. Revolução da informação: algumas reflexões.
-\textbf{Caderno de pesquisa em Administração}, São Paulo, v.~1, n.~1, 1995.}
+\bibitem[CAVALCANTI 2006]{cavalcanti2006arquitetura}
+\abntrefinfo{CAVALCANTI}{CAVALCANTI}{2006}
+{CAVALCANTI, M. \textbf{Arquitetura MVC}. 2006.}
+
+\bibitem[Dantas et al. 2002]{dantas2002suporte}
+\abntrefinfo{Dantas et al.}{DANTAS et al.}{2002}
+{DANTAS, A. et al. Suporte a padr{\~o}es no projeto de software.
+\textbf{Caderno de Ferramentas do XVI Simp{\'o}sio Brasileiro de Engenharia de
+  Software, Gramado, Rio Grande do Sul, Brasil, Outubro}, 2002.}
+
+\bibitem[Elmasri et al. 2005]{elmasri2005sistemas}
+\abntrefinfo{Elmasri et al.}{ELMASRI et al.}{2005}
+{ELMASRI, R. et al. Sistemas de banco de dados.
+Pearson Addison Wesley, 2005.}
 
 \bibitem[FERREIRA e EIS 2011]{curso2010html5}
 \abntrefinfo{FERREIRA e EIS}{FERREIRA; EIS}{2011}
@@ -51,6 +83,18 @@ Dispon{\'\i}vel em: \url{https://doi.org/10.1080/02763869.2011.540212}.}
   27th acm international conference on design of communication.
 \textbf{SIGDOC}, p. 105--114, 2009.}
 
+\bibitem[Kim 2013]{kim2013responsive}
+\abntrefinfo{Kim}{KIM}{2013}
+{KIM, B. Responsive web design, discoverability, and mobile challenge.
+\textbf{Library technology reports}, v.~49, n.~6, p. 29--39, 2013.}
+
+\bibitem[Koscianski e Soares 2007]{koscianski2007qualidade}
+\abntrefinfo{Koscianski e Soares}{KOSCIANSKI; SOARES}{2007}
+{KOSCIANSKI, A.; SOARES, M. dos S. \textbf{Qualidade de Software
+  -2{\textordfeminine} Edi{\c{c}}{\~a}o: Aprenda as metodologias e t{\'e}cnicas
+  mais modernas para o desenvolvimento de software}. São Paulo: Novatec
+  Editora, 2007.}
+
 \bibitem[Lacerdino e Melchiori 2016]{igor2016}
 \abntrefinfo{Lacerdino e Melchiori}{LACERDINO; MELCHIORI}{2016}
 {LACERDINO, I.; MELCHIORI, A. P.~P. ImplementaÇÃo de mÉtodos analÍticos de
@@ -63,18 +107,21 @@ Dispon{\'\i}vel em: \url{https://doi.org/10.1080/02763869.2011.540212}.}
 {MOREIRA, J.~P. Desbravando o git e o github.
 \textbf{Revista Educacional Interdisciplinar}, v.~5, n.~1, 2016.}
 
-\bibitem[Ponte 2002]{ponte2002tic}
-\abntrefinfo{Ponte}{PONTE}{2002}
-{PONTE, J. P.~d. As tic no in{\'\i}cio da escolaridade: Perspectivas para a
-  forma{\c{c}}{\~a}o inicial de professores.
-\textbf{A forma{\c{c}}{\~a}o para a integra{\c{c}}{\~a}o das TIC na
-  educa{\c{c}}{\~a}o pr{\'e}-escolar e no 1. {\textordmasculine} ciclo do
-  ensino b{\'a}sico}, Porto Editora, p. 19--26, 2002.}
+\bibitem[Niederauer 2004]{niederauer2004desenvolvendo}
+\abntrefinfo{Niederauer}{NIEDERAUER}{2004}
+{NIEDERAUER, J. Desenvolvendo websites com php.
+\textbf{S{\~a}o Paulo: Novatec}, 2004.}
 
-\bibitem[Seabra 1993]{seabra1993}
-\abntrefinfo{Seabra}{SEABRA}{1993}
-{SEABRA, C. O computador na criaÇÃo de ambientes interativos de aprendizagem.
-\textbf{Em aberto}, n.~57, jan./mar. 1993.}
+\bibitem[Paro 2007]{paro2007gestao}
+\abntrefinfo{Paro}{PARO}{2007}
+{PARO, V.~H. \textbf{Gest{\~a}o escolar, democracia e qualidade do ensino}.
+  [S.l.]: {\'A}tica S{\~a}o Paulo, 2007.}
+
+\bibitem[Pressman 2011]{pressman2011engenharia}
+\abntrefinfo{Pressman}{PRESSMAN}{2011}
+{PRESSMAN, R.~S. Engenharia de software: uma abordagem profissional.
+  7{\textordfeminine} edi{\c{c}}{\~a}o.
+\textbf{Ed: McGraw Hill}, 2011.}
 
 \bibitem[Spurlock 2013]{spurlock2013bootstrap}
 \abntrefinfo{Spurlock}{SPURLOCK}{2013}
@@ -90,18 +137,5 @@ Dispon{\'\i}vel em: \url{https://doi.org/10.1080/02763869.2011.540212}.}
 \abntrefinfo{Tonu}{TONU}{2012}
 {TONU, M.~H. \textbf{PHP Application Development with NetBeans}: Beginner's
   guide. Birmingham - Mumbai: Packt Publishing Ltd, 2012.}
-
-\bibitem[Valente 1993]{valente1993}
-\abntrefinfo{Valente}{VALENTE}{1993}
-{VALENTE, J.~A. Diferentes usos do computador na educação.
-\textbf{Em aberto}, n.~57, jan./mar. 1993.}
-
-\bibitem[Zaponi, Monteiro e Torres 2009]{manualDiario}
-\abntrefinfo{Zaponi, Monteiro e Torres}{ZAPONI; MONTEIRO; TORRES}{2009}
-{ZAPONI, M.; MONTEIRO, A.; TORRES, V.~B. de A. \textbf{ORIENTAÇÃO PARA
-  PREENCHIMENTO DOS DIÁRIOS DE CLASSE}: Ensino fundamental anos finais e
-  ensino mÉdio. 2009.
-Dispon{\'\i}vel em:
-  \url{http://www.educacao.pe.gov.br/portal/upload/galeria/750/utilizadiariodeclasse.pdf}.}
 
 \end{thebibliography}

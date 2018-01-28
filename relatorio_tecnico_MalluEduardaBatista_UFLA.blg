@@ -2,6 +2,7 @@ This is BibTeX, Version 0.99dThe top-level auxiliary file: relatorio_tecnico_Mal
 A level-1 auxiliary file: introducao.aux
 A level-1 auxiliary file: referencial.aux
 A level-1 auxiliary file: desenvolvimento.aux
+A level-1 auxiliary file: sistema.aux
 A level-1 auxiliary file: resultados.aux
 A level-1 auxiliary file: conclusao.aux
 The style file: abntex2-alf.bst
@@ -12,21 +13,24 @@ I was expecting a `,' or a `}'---line 113 of file relMallu.bib
  :  Address = {Bloomington},
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-Warning--entry type for "manualDiario" isn't style-file defined
---line 234 of file relMallu.bib
 I was expecting a `,' or a `}'---line 253 of file relMallu.bib
  :  
  :  Address={Lavras},
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 274 of file relMallu.bib
+I was expecting a `,' or a `}'---line 276 of file relMallu.bib
  :  
  :  address={Brasília},
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 284 of file relMallu.bib
+I was expecting a `,' or a `}'---line 286 of file relMallu.bib
  :  
  :  address={Brasília},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 313 of file relMallu.bib
+ :  
+ :  address={São Paulo};
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
 +---------------------------------------------------------+
@@ -34,4 +38,4 @@ I'm skipping whatever remains of this entry
 | Em caso de dúvidas ou problemas com este estilo procure |
 | http://www.abntex.net.br/                               |
 +---------------------------------------------------------+
-(There were 4 error messages)
+(There were 5 error messages)
